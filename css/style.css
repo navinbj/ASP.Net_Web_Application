@@ -1,0 +1,177 @@
+﻿body {
+  padding-top: 0;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 0px 0;
+}
+
+.header img {
+    width: 100%;
+    height: 150px;
+}
+
+.homePageImage img {
+    width: 100%;
+    height: 100%;
+    margin-top: 2%;
+}
+
+.homePageHeader h3{
+    color: #2d6ca2;
+}
+
+.homePageHeader h5 {
+    color: deeppink;
+    font-family: 'Comic Sans MS';
+    font-style: italic;
+}
+.priceInput {
+    margin-bottom: 5px;
+}
+
+.homePage {
+    margin-top: 0%;
+    border-style: solid;
+    border-color: lightgray;
+    background-color: whitesmoke;
+    border-width: thin;
+    padding-bottom: 15px;
+}
+
+#footer {
+    text-align: center;
+    background-color: #a94442;
+    color: #fff;
+    margin-top: 5px;
+}
+
+.address h5 {
+    color: white;
+}
+
+.address h5 {
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+.address {
+    margin-top: 5%;
+    border-style: solid;
+    border-width: thin;
+    background-color: forestgreen;
+    border-radius: 10px;
+}
+
+.title {
+    color: #c7254e;
+    font-size: x-large;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/*.description {
+    margin-top: 1%;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    font-size: small;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 3px;
+    border-color: white;
+    background-color: lightskyblue;
+    color: darkblue;
+}*/
+
+.bookInfo {
+    margin-top: 1%;
+}
+
+.heading {
+    background-color: dodgerblue;
+    color: white;
+    border-style: solid;
+    border-radius: 0px;
+    border-width: 2px;
+    margin-bottom: 1%;
+    text-align: left;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.heading h3, p {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.bookInfo #selectQtyLbl {
+    color: red;
+}
+
+.navbar{
+    margin-bottom: 5px;
+}
+
+.registerHeader {
+    margin-bottom: 2%;
+}
+
+fieldset {
+    border: thin solid #ccc;
+    border-radius: 4px;
+    padding-right: 20px;
+    padding-left: 40px;
+    padding-top: 10px;
+    background: #fbfbfb;
+}
+
+legend {
+    color: #678;
+}
+
+.form-control {
+}
+
+label small {
+    color: #678 !important;
+}
+
+span.req {
+    color: maroon;
+    font-size: 112%;
+}
+
+.body {
+    margin-right: 0px;
+}
+
+.jumbotron {
+    background: #358CCE;
+    color: #FFF;
+    border-radius: 0px;
+}
+
+.jumbotron-sm {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.jumbotron small {
+    color: #FFF;
+}
+
+.h1 small {
+    font-size: 24px;
+}
+
+.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+    padding: 0px;
+}
